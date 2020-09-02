@@ -1,0 +1,56 @@
+---
+layout: post
+title: "Outsight"
+date: 2020-06-22
+description:
+image: /assets/images/outsight/outsight.jpg
+tags:
+  - Design Research
+  - Product Design
+  - Experimental
+---
+<h6> How can new technologies help decrease the inequality gap in societies? </h6>
+
+<br>
+
+<iframe src="https://player.vimeo.com/video/431520698" width="640" height="640" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+<br>
+
+We live in a <b>Visual Culture</b>, but we perceive and learn things through a mix of senses. How many senses are your aware of? Through what senses do you recognize the information that surrounds you? Some of us might say instantly "sight," but try closing your eyes for a minute. What are you listening to? Are you feeling cold or hot? And if you take a step forward, how do you know you're moving? Are you balanced? We learned that there are five senses (hearing, sight, smell, taste, and touch), and each of them carries a different impression to our brain. But there have been many studies (please go to page 8 in the thesis document), pointing out that humans have more senses. And it all depends on how we classify or divide our sensory systems. Is there any other way possible that can help us understand things differently through the use of senses? <b>Can we play with them and trick our minds for perceiving?</b> It is possible to learn more from those who haven't sight.
+
+<br>
+
+Throughout my volunteering at Fundación Once - the Spanish national institution for the blind. I realized not only the lack of adapted technologies but also the way they are taught to learn. Touch is super important, and hearing guides them everywhere. After two interventions (<a target="_blank_" href="https://andrea_bertran.gitlab.io/andrea.bertran/2020.02.03_1st%20intervention.html"><i>first</i></a>, <a target="_blank_" href="https://andrea_bertran.gitlab.io/andrea.bertran/2020.03.05_2nd%20intervention.html"><i>second</i></a>), the project started taking shape and transform from <b>a medium that intended to translate visual arts, to a tool that can allow them to design and build sculptures</b>.
+
+<br>
+
+Through this project, I aim to reflect on tools for creativity and look for alternatives for social inclusion. I am interested in how initiatives like this, can challenge us to distort our realities and find new ways for creation, as well as argue about the need to diversify design and consider facilitating accessibility and opening software to overcome differences. I am confident that by involving people with impairments, we would be able to accomplish better systems.
+
+<br>
+
+<b>Let's shift our mindset and make a call to designers to be allies of equity.</b>
+
+<br>
+
+<img src="/assets/images/outsight/01.jpg" alt="Grid Image"/>
+
+<img src="/assets/images/outsight/02.jpg" alt="Grid Image"/>
+
+<img src="/assets/images/outsight/03.jpg" alt="Grid Image"/>
+
+<img src="/assets/images/outsight/04.jpg" alt="Grid Image"/>
+
+<img src="/assets/images/outsight/05.jpg" alt="Grid Image"/>
+
+<br>
+
+Up to today, I haven't been able to go back to Fundación Once (due to COVID-19 👑🦠) and try it with the target group. I'll keep this post updated.
+
+<br>
+
+<b>Software + Tools</b> : Arduino, Rhino + Grasshopper, Kicad + Fabmodules, 3D Printing, and CNC.
+
+<br>
+
+__Read more and find out how it works, <a target="_blank" href="https://andrea_bertran.gitlab.io/andrea.bertran/masterproject.html"><i>here.</i></a>__

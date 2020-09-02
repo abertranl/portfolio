@@ -5,40 +5,35 @@ permalink: /:year/:month/:day/:title/
 google_analytics:
 
 name: Andrea Bertran
-title: Andrea Bertran
+title: ANDREA BERTRAN
 description: >
-  Barber is a blog theme for Jekyll built by Thomas Vaeth for Samesies using HTML, Sass, and JavaScript.
+  Hi! I'm Andrea a Creative Technologist and Architect.
 url: http://abertranl.github.io/
 twitter_username:
 default_img: /assets/images/seo.jpg
 social:
-  - name: twitter
-    url:
   - name: instagram
     url: https://www.instagram.com/_andreabertran/
   - name: linkedin
-    url: https://www.linkedin.com/in/andreabertranlopez/
-  - name: github
-    url: https://github.com/samasdfesies
-  - name: codepen
-    url: https://codepen.io/thomaasdfsvaeth/
+    url: https://www.linkedin.com/in/andrea-bertran-l%C3%B3pez-57ba43126/
+
 
 # Contact settings
-contact_img: /assets/images/placeholder-28.jpg
+contact_img: /assets/images/phygital.jpg
 formcarry: https://formcarry.com/s/HkIo0nMb7
 
-# Disqus settings
-disqus: test-apkdzgmqhj
-
-# MailChimp settings
-mailchimp_action: https://samesies.us17.list-manage.com/subscribe/post-json?u=66ddf555dab480e6a8606430b&amp;id=89b3ee034f
-mailchimp_input: b_66ddf555dab480e6a8606430b_89b3ee034f
+# # Disqus settings
+# disqus: test-apkdzgmqhj
+#
+# # MailChimp settings
+# mailchimp_action: https://samesies.us17.list-manage.com/subscribe/post-json?u=66ddf555dab480e6a8606430b&amp;id=89b3ee034f
+# mailchimp_input: b_66ddf555dab480e6a8606430b_89b3ee034f
 
 # Author settings
 author:
   - name: Andrea Bertran
-    bio: Thomasdfadsfadsfth was born in New York, raised in Pennsylvania, and transplanted in Washington. He was a Web Developer at Urban Influence, but now he's a Software Engineer at Getty Images.
-    url: http://thomasvaeth.com
+    bio:
+    url:
 
 # Pagination settings
 pagination:
