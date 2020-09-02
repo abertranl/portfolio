@@ -1,0 +1,39 @@
+---
+layout: post
+title: "Phygital"
+date: 2020-04-29
+description:
+image: /assets/images/phygital/phygital.jpg
+author:
+tags:
+  - Experimental
+  - Interactive
+  - Design Research
+---
+<h6> Some digital drawings triggered by the movement of sensors. </h6>
+
+<br>
+
+Programmed in Processing and Arduino. An Adafruit Color Sensor, reads the given color and the user can start drawing the lines while moving the flex sensor. Programmed with sin and cos functions and inspired on John Whitney's graphics and Alexander Miller tutorials.
+
+<img src="/assets/images/phygital/01.JPG" alt="Grid Image"/>
+
+<img src="/assets/images/phygital/02.JPG" alt="Grid Image"/>
+
+<img src="/assets/images/phygital/03.JPG" alt="Grid Image"/>
+
+<img src="/assets/images/phygital/04.jpg" alt="Grid Image"/>
+
+<img src="/assets/images/phygital/05.jpg" alt="Grid Image"/>
+
+<img src="/assets/images/phygital/06.jpg" alt="Grid Image"/>
+
+<img src="/assets/images/phygital/07.jpg" alt="Grid Image"/>
+
+<br>
+
+<b>Software + Tools</b> : Arduino and Processing.
+
+<br>
+
+__Read more and find out how it works, <a target="_blank" href="https://andrea_bertran.gitlab.io/andrea.bertran/2020.04.01_Input%20devices.html"><i>here.</i></a>__
