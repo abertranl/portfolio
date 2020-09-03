@@ -12,12 +12,6 @@ What can you read on the following lines? My background but most importantly, my
 
 <br>
 
-<b>Contact</b>
-<span style="display:block; height: 5px;"></span>
-bertran.andrea@gmail.com
-
-<br>
-
 <hr>
 
 <br>
