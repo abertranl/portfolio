@@ -5,8 +5,8 @@ date: 2019-11-21
 description:
 image: /assets/images/visualizing-sound/visualizing.jpg
 tags:
-  - Experimental
-  - Product Design
+  - Digital Fabrication
+  - Product 
 ---
 <h6> How do you imagine sound? </h6>
 

@@ -6,6 +6,7 @@ description:
 image: /assets/images/speculative/speculative.jpg
 tags:
   - Design Research
+  - Speculative
 ---
 <h6> Proposals to address current scenarios based on a few concepts or sometimes called Weak Signals</h6>
 

@@ -1,0 +1,103 @@
+---
+layout: post
+title: "About Climate Crisis"
+date: 2020-10-15
+description:
+image: /assets/images/acc/port.jpg
+tags:
+  - Design Research
+  - Product
+  - Data-driven
+
+---
+
+This project is about <b> embracing learning through an everyday object, </b> about sharing and being aware of the full climate picture. Because <b> information and knowledge can be carried everywhere, </b> even through a day to day garment. Because knowledge needs to come down to earth, address all human beings, and not remain in the scientific, intellectual, or political context.
+
+2020 has been the year of uncertainty and fear. Nevertheless, we need to recognize that we’ve come to acknowledge so much about ourselves, our weaknesses, and the impact of social, political, and economic decisions. Information keeps been thrown back at us at such a fast pace, that the constant changes, news, and events can be overwhelming. We already know that the environment is suffering from dramatic changes and that the cause is the system we are immersed in. <b>Yet, little we know about the people who are fighting in the front-line, the actions we can take to fight along with them or the exact facts and scenarios expected.</b>
+
+This project (composed by a T-shirt and a website) aims to bring you closer to the climate crisis and incite you to read, learn and identify things you can change to help the environment.    
+
+<span style="display:block; height: 50px;"></span>
+
+
+<b>01 | T-shirt</b>
+
+Find it at <a target="_blank_" href="https://everpress.com/aboutclimatecrisis/"><i>everpress.com/aboutclimatecrisis</i></a>.
+
+50% of the money raised by the designer (me), will be donated to the WWF. Find more about it, <a target="_blank_" href="https://www.aboutclimatecrisis.com/about"><i>here</i></a>
+
+<br>
+
+<img src="/assets/images/acc/Tshirt.jpg" alt="Grid Image"/>
+
+<br>
+
+The front side contains the QR code that will open the <a target="_blank_" href="https://www.aboutclimatecrisis.com/"><i>aboutclimatecrisis.com</i></a> website (explained in the next point).
+
+On the back side, you'll find and learn through illustrations, text and graphs a few facts on biodiversity loss: endangered animal and plant species and how many countries protect a share of their land for biodiversity purposes (scientific reserves with limited public access, national parks, natural monuments, nature reserves or wildlife sanctuaries, protected landscapes, and areas managed mainly for sustainable use).
+
+<br>
+
+<img src="/assets/images/acc/Tshirt2.jpg" alt="Grid Image"/>
+
+<br>
+
+
+<b>02 | Website</b>
+
+Go to <a target="_blank_" href="https://www.aboutclimatecrisis.com/"><i>aboutclimatecrisis.com</i></a>
+
+The website will be opened after reading the QR code of the T-shirt. The page displays short paragraphs with information (facts, pieces of advice, and quotes from scientists, journalists, and climate activists) and gives you access to its sources for you to learn more about them and understand in detail what the changes need to be done to address the crisis correctly.
+
+<br>
+
+<img src="/assets/images/acc/web.JPG" alt="Grid Image"/>
+
+<img src="/assets/images/acc/web2.JPG" alt="Grid Image"/>
+
+<br>
+
+<span style="display:block; height: 50px;"></span>
+
+<b>03 | Gallery</b>
+
+<br>
+
+<img src="/assets/images/acc/1.jpg" alt="Grid Image"/>
+
+<img src="/assets/images/acc/2.jpg" alt="Grid Image"/>
+
+<img src="/assets/images/acc/3.jpg" alt="Grid Image"/>
+
+<img src="/assets/images/acc/4.jpg" alt="Grid Image"/>
+
+<img src="/assets/images/acc/5.jpg" alt="Grid Image"/>
+
+<img src="/assets/images/acc/6.jpg" alt="Grid Image"/>
+
+<br>
+
+<span style="display:block; height: 50px;"></span>
+
+
+<b>04 | About</b>
+
+<b>QR code</b> - Static code generated with <a target="_blank_" href="https://www.qrcode-monkey.com/"><i>QRCode Monkey</i></a>.
+
+<b>Everpress</b> - is an online selling platform committed to the environment. They only print what's sold, reducing waste to the maximum, the packaging is recyclable and the garment selected for this specific design is made from 100% Organic Cotton and recognized with ethical production accreditations by the Fair Wear Foundation which follows the strictest ethical and environmental standards. To find more about their work, click <a target="_blank_" href="https://everpress.com/sustainability"><i>here</i></a>
+
+<b>T-shirt facts and drawings sources</b>:
+
+1 - How many countries protect a share of their land for biodiversity
+Goal 15: Life on Land - SDG Tracker. (n.d.). Retrieved from https://sdg-tracker.org/biodiversity
+
+2 - Coffea arabica
+Moat, J., Gole, T. W., & Davis, A. P. (2019, January 16). Least concern to endangered: Applying climate change projections profoundly influences the extinction risk assessment for wild Arabica coffee. Retrieved from https://onlinelibrary.wiley.com/doi/10.1111/gcb.14341
+
+3 - Pieris Wollastoni
+Van Swaay, C. (2009, January 29). The IUCN Red List of Threatened Species. Retrieved from https://www.iucnredlist.org/species/39483/10240995#threats
+
+4 - Javan Rhinos in earth
+Javan Rhino: Species: Save the Rhino International. (n.d.). Retrieved from https://www.savetherhino.org/rhino-info/rhino-species/javan-rhino/
+
+<b>Special thanks to</b>: Pablo, María and Mónica for their support!

@@ -6,9 +6,8 @@ description:
 image: /assets/images/phygital/phygital.jpg
 author:
 tags:
-  - Experimental
-  - Interactive
   - Design Research
+  - Data-driven
 ---
 <h6> Some digital drawings triggered by the movement of sensors. </h6>
 

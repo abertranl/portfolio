@@ -6,8 +6,10 @@ description:
 image: /assets/images/outsight/outsight.jpg
 tags:
   - Design Research
-  - Product Design
-  - Experimental
+  - Digital Fabrication
+  - Data-driven
+  - Product 
+
 ---
 <h6> How can new technologies help decrease the inequality gap in societies? </h6>
 

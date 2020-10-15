@@ -26,11 +26,14 @@ __Master in Design for Emergent Futures - IAAC & ELISAVA__
 `2011-16`
 __Architecture - Instituto Tecnológico de Monterrey__
 <span style="display:block; height: 5px;"></span>
-`2014-15` in Politecnico di Milano
+`2014-15` Exchange program at Politecnico di Milano
 
 <br>
 
 <h6> Courses </h6>
+
+`2020-present`
+__UX Design and Evaluation - EDX | HECMontrealX__
 
 `2018-19`
 __Architectural Visualization - Factoría 5__
@@ -71,13 +74,14 @@ in the city of Leon, Mexico.
 
 <h6> Software </h6>
 __Good knowledge:__
-* Adobe - PS AI ID PR AE
+* Adobe - PS, AI, ID, PR, AE
 * Rhino + Grasshopper
 * 3ds Max + Vray
 * QGis
-* Microsoft Office
 * Autocad
 * Sketchup
+* Sketch + Figma
+* Microsoft Office
 
 __Basic knowledge:__
 * Blender
@@ -101,5 +105,5 @@ __Good knowledge:__
 
 __Basic knowledge:__
 * Python
-* HTML
+* HTML + CSS
 * JAVA
