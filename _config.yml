@@ -8,7 +8,7 @@ name: Andrea Bertran
 title: ANDREA BERTRAN
 description: >
   Hi! I'm Andrea a Creative Technologist and Architect.
-url: https://andreabertran.netlify.app
+url: https://abertran.com
 twitter_username:
 default_img: /assets/images/seo.jpg
 social:
@@ -19,7 +19,7 @@ social:
 
 
 # Contact settings
-contact_img: 
+contact_img:
 formcarry: bertran.andrea@gmail.com
 
 # # Disqus settings
