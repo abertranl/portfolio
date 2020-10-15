@@ -82,9 +82,9 @@ The website will be opened after reading the QR code of the T-shirt. The page di
 
 <b>04 | About</b>
 
-<b>QR code</b> - Static code generated with <a target="_blank_" href="https://www.qrcode-monkey.com/"><i>QRCode Monkey</i></a>.
+<b>QR code</b>: Static code generated with <a target="_blank_" href="https://www.qrcode-monkey.com/"><i>QRCode Monkey</i></a>.
 
-<b>Everpress</b> - is an online selling platform committed to the environment. They only print what's sold, reducing waste to the maximum, the packaging is recyclable and the garment selected for this specific design is made from 100% Organic Cotton and recognized with ethical production accreditations by the Fair Wear Foundation which follows the strictest ethical and environmental standards. To find more about their work, click <a target="_blank_" href="https://everpress.com/sustainability"><i>here</i></a>
+<b>Everpress</b>: is an online selling platform committed to the environment. They only print what's sold, reducing waste to the maximum, the packaging is recyclable and the garment selected for this specific design is made from 100% Organic Cotton and recognized with ethical production accreditations by the Fair Wear Foundation which follows the strictest ethical and environmental standards. To find more about their work, click <a target="_blank_" href="https://everpress.com/sustainability"><i>here</i></a>
 
 <b>T-shirt facts and drawings sources</b>:
 
