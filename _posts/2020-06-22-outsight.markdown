@@ -8,7 +8,7 @@ tags:
   - Design Research
   - Digital Fabrication
   - Data-driven
-  - Product 
+  - Product
 
 ---
 <h6> How can new technologies help decrease the inequality gap in societies? </h6>
@@ -51,7 +51,11 @@ Up to today, I haven't been able to go back to Fundación Once (due to COVID-19 
 
 <br>
 
-<b>Software + Tools</b> : Arduino, Rhino + Grasshopper, Kicad + Fabmodules, 3D Printing, and CNC.
+__Thesis__
+
+<style>.embed-container { position: relative; padding-bottom:5%; height:0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%;}</style><div class='embed-container' data-page-width='453' data-page-height='640' id='ypembedcontainer' ><iframe   src="https://www.yumpu.com/en/embed/view/TWyz7m5ECu1toM9F" frameborder="0" allowfullscreen="true"  allowtransparency="true"></iframe></div><script src='https://players.yumpu.com/modules/embed/yp_r_iframe.js' ></script>
+
+<b>Software + Tools</b> : Arduino, Rhino + Grasshopper, Kicad + Fabmodules, 3D Printer, and Milling machine.
 
 <br>
 

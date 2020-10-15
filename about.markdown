@@ -102,8 +102,9 @@ __Good knowledge:__
 * C / C++
 * Arduino
 * Processing
+* HTML + CSS
 
 __Basic knowledge:__
 * Python
-* HTML + CSS
+* SQL
 * JAVA

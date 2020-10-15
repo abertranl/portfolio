@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "About Climate Crisis"
+title: "About the Climate Crisis"
 date: 2020-10-15
 description:
 image: /assets/images/acc/port.jpg
@@ -47,7 +47,7 @@ On the back side, you'll find and learn through illustrations, text and graphs a
 
 Go to <a target="_blank_" href="https://www.aboutclimatecrisis.com/"><i>aboutclimatecrisis.com</i></a>
 
-The website will be opened after reading the QR code of the T-shirt. The page displays short paragraphs with information (facts, pieces of advice, and quotes from scientists, journalists, and climate activists) and gives you access to its sources for you to learn more about them and understand in detail what the changes need to be done to address the crisis correctly.
+The website will be opened after reading the QR code on the T-shirt. The page displays short paragraphs with information (facts, pieces of advice, and quotes from scientists, journalists, and climate activists) and gives you access to its sources for you to learn more about them and understand in detail what changes need to be done to address the crisis correctly.
 
 <br>
 
@@ -88,16 +88,12 @@ The website will be opened after reading the QR code of the T-shirt. The page di
 
 <b>T-shirt facts and drawings sources</b>:
 
-1 - How many countries protect a share of their land for biodiversity
-Goal 15: Life on Land - SDG Tracker. (n.d.). Retrieved from https://sdg-tracker.org/biodiversity
+1 - How many countries protect a share of their land for biodiversity. Goal 15: Life on Land - SDG Tracker. (n.d.). Retrieved from https://sdg-tracker.org/biodiversity
 
-2 - Coffea arabica
-Moat, J., Gole, T. W., & Davis, A. P. (2019, January 16). Least concern to endangered: Applying climate change projections profoundly influences the extinction risk assessment for wild Arabica coffee. Retrieved from https://onlinelibrary.wiley.com/doi/10.1111/gcb.14341
+2 - Coffea arabica. Moat, J., Gole, T. W., & Davis, A. P. (2019, January 16). Least concern to endangered: Applying climate change projections profoundly influences the extinction risk assessment for wild Arabica coffee. Retrieved from https://onlinelibrary.wiley.com/doi/10.1111/gcb.14341
 
-3 - Pieris Wollastoni
-Van Swaay, C. (2009, January 29). The IUCN Red List of Threatened Species. Retrieved from https://www.iucnredlist.org/species/39483/10240995#threats
+3 - Pieris Wollastoni. Van Swaay, C. (2009, January 29). The IUCN Red List of Threatened Species. Retrieved from https://www.iucnredlist.org/species/39483/10240995#threats
 
-4 - Javan Rhinos in earth
-Javan Rhino: Species: Save the Rhino International. (n.d.). Retrieved from https://www.savetherhino.org/rhino-info/rhino-species/javan-rhino/
+4 - Javan Rhinos in earth. Javan Rhino: Species: Save the Rhino International. (n.d.). Retrieved from https://www.savetherhino.org/rhino-info/rhino-species/javan-rhino/
 
 <b>Special thanks to</b>: Pablo, María and Mónica for their support!

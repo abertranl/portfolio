@@ -6,7 +6,7 @@ description:
 image: /assets/images/visualizing-sound/visualizing.jpg
 tags:
   - Digital Fabrication
-  - Product 
+  - Product
 ---
 <h6> How do you imagine sound? </h6>
 
@@ -32,4 +32,4 @@ Sound waves make air molecules travel toward and away from the source in high an
 
 <br>
 
-<b>Software</b> : Arduino, Rhino, 3D Printing, and CNC.
+<b>Software</b> : Arduino, Rhino, 3D Printer, and CNC.
